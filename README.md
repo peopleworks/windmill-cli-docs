@@ -144,6 +144,7 @@ source (wmill completions fish | psub)  # fish
 - `skills/schedules/SKILL.md`
 - `skills/resources/SKILL.md`
 - `skills/write-workflow-as-code/SKILL.md`
+- `skills/write-pipeline/SKILL.md`
 - `skills/cli-commands/SKILL.md`
 - `skills/preview/SKILL.md`
 
